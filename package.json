@@ -2,20 +2,20 @@
   "name": "dynamiclandingpage",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KarlAngelu/Dynamic-Landing-Page.git"
+    "url": "git+https://github.com/KarlAngelu/DynamicLandingPage.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KarlAngelu/Dynamic-Landing-Page/issues"
+    "url": "https://github.com/KarlAngelu/DynamicLandingPage/issues"
   },
-  "homepage": "https://github.com/KarlAngelu/Dynamic-Landing-Page#readme",
+  "homepage": "https://KarlAngelu.github.io/DynamicLandingPage",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
